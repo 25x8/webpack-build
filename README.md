@@ -9,7 +9,7 @@ This build already have css/sass, file, babel loaders. Hot reload and optimizati
 2.      npm install
 3. Fix some description in package.json
 
-## Enjoy with 4 scripts: 
+## Enjoy with 5 scripts: 
 - ### dev
     Without optimization, basic development build with map source.
 - ### watch 
