@@ -10,15 +10,15 @@ This build already have css/sass, file, babel loaders. Hot reload and optimizati
 3. Fix some description in package.json
 
 ## Enjoy with 4 scripts: 
-- ###dev
+- ### dev
     Without optimization, basic development build with map source.
-- ###watch 
+- ### watch 
     Same as dev but with auto rebuild      
-- ###start
+- ### start
     Build your project in development mode in localserver, with auto rebuild and reload.
-- ###build
+- ### build
     Production build with optimization and minification html, css and js files.
-- ###stats
+- ### stats
     Create file stats.json and open in localserver visual statistic about consuming resources by your files.
         
         
