@@ -3,7 +3,7 @@
 
 This build already have css/sass, file, babel loaders. Hot reload and optimization include.
 
-##Installation
+## Installation
 
 1.      git clone https://github.com/25x8/webpack-build.git
 2.      npm install
